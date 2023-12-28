@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DataStructureAndAlgorithm"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Software/CLion 2023.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Software/CLion 2023.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software/CLion 2023.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software/CLion 2023.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DataStructureAndAlgorithm">
+				<Option output="D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug/DataStructureAndAlgorithm.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Software/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/Software/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/Software/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/Software/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/Software/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/Software/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/Software/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Software/CLion 2023.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 DataStructureAndAlgorithm"/>
+					<CompileFile command="D:/Software/CLion 2023.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software/CLion 2023.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software/CLion 2023.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DataStructureAndAlgorithm/fast">
+				<Option output="D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug/DataStructureAndAlgorithm.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Software/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/Software/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/Software/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/Software/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/Software/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/Software/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/Software/CLion 2023.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Software/CLion 2023.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 DataStructureAndAlgorithm/fast"/>
+					<CompileFile command="D:/Software/CLion 2023.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software/CLion 2023.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software/CLion 2023.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Software/CLion 2023.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Software/CLion 2023.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software/CLion 2023.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software/CLion 2023.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Software/CLion 2023.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Software/CLion 2023.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software/CLion 2023.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software/CLion 2023.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/WorkShop/Data-Structure-And-Algorithm/main.cpp">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/WorkShop/Data-Structure-And-Algorithm/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

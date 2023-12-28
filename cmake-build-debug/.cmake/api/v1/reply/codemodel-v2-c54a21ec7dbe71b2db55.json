@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "F:/DataStructureAndAlgorithm/cmake-build-debug",
-		"source" : "F:/DataStructureAndAlgorithm"
+		"build" : "D:/WorkShop/Data-Structure-And-Algorithm/cmake-build-debug",
+		"source" : "D:/WorkShop/Data-Structure-And-Algorithm"
 	},
 	"version" : 
 	{
